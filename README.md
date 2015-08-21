@@ -14,6 +14,11 @@ Download [zsh-alias-suggester.sh](zsh-alias-suggester.sh) and source it from you
 source /path/to/zsh-alias-suggester.sh
 ```
 
+## Usage
+
+Use the shell as you normally would, but keep an eye on the right prompt for suggestions about the
+previous command.
+
 ## Limitations
 
 The current implementation could be made more sophisticated. For example, if you type `some-command
