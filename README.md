@@ -1,8 +1,8 @@
 # Zsh Alias Suggester
 
 This is a small set of Zsh commands to use the right-hand prompt for suggesting a shorter
-alternative for the command you just typed (if available). This is done by looking at the aliases
-that are currently defined.
+alternative for the command you just typed (if found). This is done by looking at the aliases that
+are currently defined.
 
 ![](https://github.com/hilverd/zsh-alias-suggester/blob/master/example.png)
 
